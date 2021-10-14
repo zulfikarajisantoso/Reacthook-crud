@@ -1,0 +1,34 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Rahmadi",
+      "asal": "Magelang"
+    },
+    {
+      "id": 2,
+      "nama": "Yanto",
+      "asal": "Ngawi"
+    },
+    {
+      "id": 3,
+      "nama": "Yusuf",
+      "asal": "Nganjuk"
+    },
+    {
+      "id": 4,
+      "nama": "Lexi",
+      "asal": "Toraja"
+    },
+    {
+      "id": 5,
+      "nama": "Sukri",
+      "asal": "Makale"
+    },
+    {
+      "nama": "mahmuding",
+      "asal": "sorako",
+      "id": 8
+    }
+  ]
+}
